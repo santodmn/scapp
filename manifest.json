@@ -1,0 +1,16 @@
+{
+  "short_name": "SS",
+  "name": "Streaming Sughesco",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0c0c0c",
+  "background_color": "#0c0c0c"
+}
